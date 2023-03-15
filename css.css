@@ -1,0 +1,101 @@
+body {
+    background-image: url('photos/cover.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 16px;
+}
+nav a img {
+    height: 50px;
+    margin-left: 35px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 1px;
+    margin-left: -20px;
+  }
+  nav ul li {
+    margin-right: 20px;
+    margin: 0%;
+  }
+  nav ul li a {
+    color: #181818;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: montserrat light;
+    margin: 0px;
+  }
+.Bienvenue{
+    border-bottom: 2px solid;
+    font-weight: bold;
+    justify-content: left;
+    height: auto;
+    margin-left: 125px;
+    margin-top: 200px;
+    width: 345px;
+}
+.Mada-music{
+    font-size: 25px;
+    color: orange;
+    font-family: montserrat;
+    margin-left: 125px;
+    margin-top: -15px;
+}
+.definition{
+    font-size: 15px;
+    color: white;
+    width: 360px;
+    margin-left: 125px;
+    margin-top: -15px;
+    font-family: montserrat light ;
+    text-align: justify;
+}
+.decouvrir{
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    font-family: montserrat;
+    margin-left: 240px;
+    margin-top: 30px;
+    background-color: orange;
+    width: 100px;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 17%;
+    text-align: center;
+}
+.Logo{
+    margin-left: 800px;
+    margin-top: -330px;
+}
+.Nom{
+    border-bottom: 2px solid;
+    font-weight: bold;
+    justify-content: left;
+    height: auto;
+    margin-left: 125px;
+    margin-top: 50px;
+    width: 360px;
+}
+.image{
+    margin-left: 620px;
+    margin-top: -1250px;
+    position: fixed;
+}
+.Chanteur{
+    font-size: 25px;
+    color: orange;
+    font-family: montserrat;
+    margin-left: 125px;
+    margin-top: -15px;
+}
+.musique{
+    margin-left: 750px;
+    margin-top: -760px;
+    position: fixed;
+    font-family: montserrat;
+    color: white;
+}
